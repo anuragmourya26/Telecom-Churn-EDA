@@ -16,12 +16,12 @@ STATE: 51 Unique States name<br>
 Account Length: Length of The Account<br>
 Area Code: Code Number of Area having some States<br>
 International Plan: Yes Indicate International Plan is Present and No Indicates no subscription for Internatinal Plan<br>
-Voice Mail Plan: Yes Indicates Voice Mail Plan is Present and No Indicates no subscription for Voice Mail Plan<br>
-Number vmail messages: Number of Voice Mail Messages ranging from 0 to 50<br>
-Total day minutes: Total Number of Minutes Spent in Morning<br>
+Voice Mail Plan: Yes Indicates Voice Mail Plan is Present and No Indicates no subscription for Voice Mail Plan.<br>
+Number vmail messages: Number of Voice Mail Messages ranging from 0 to 50.<br>
+Total day minutes: Total Number of Minutes Spent in Morning.<br>
 Total day calls: Total Number of Calls made in Morning.<br>
 Total day charge: Total Charge to the Customers in Morning.<br>
-Total eve minutes: Total Number of Minutes calls in Evening<br>
+Total eve minutes: Total Number of Minutes calls in Evening.<br>
 Total eve calls: Total Number of Calls made in Evening.<br>
 Total eve charge: Total Charge to the Customers in Morning.<br>
 Total night minutes: Total Number of Minutes calls in the Night.<br>
@@ -30,8 +30,8 @@ Total night charge: Total Charge to the Customers in Night.<br>
 Total intl minutes: Total Number of international calls in Minutes.<br>
 Total intl calls: Total number of international calls made.<br>
 Total intl charge: Total charges for international calls.<br>
-Customer service calls Number of customer service calls made by customer<br>
-Churn Customer: Churn, True means churned customer, False means retained customer<br>
+Customer service calls Number of customer service calls made by customer.<br>
+Churn Customer: Churn, True means churned customer, False means retained customer.<br>
 
 Observation: 
 
